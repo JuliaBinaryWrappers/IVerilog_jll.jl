@@ -1,0 +1,236 @@
+[[IVerilog]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "fcd5f224759031e3ad0870f8e59b700fa3260540"
+libc = "glibc"
+os = "linux"
+
+    [[IVerilog.download]]
+    sha256 = "66c82198fc5a8afa3b0ab07968843f57aca2e36e21306439e56d866062f025aa"
+    url = "https://github.com/JuliaBinaryWrappers/IVerilog_jll.jl/releases/download/IVerilog-v12.0.0+0/IVerilog.v12.0.0.aarch64-linux-gnu-cxx03.tar.gz"
+[[IVerilog]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "4d58e3244ffe124ae6a3433f9d26a1b8ed22388b"
+libc = "glibc"
+os = "linux"
+
+    [[IVerilog.download]]
+    sha256 = "189cbf3e8f79e54089bf84f88bd4ad83c0b9bffd711ecf915e7ab664ea79fbda"
+    url = "https://github.com/JuliaBinaryWrappers/IVerilog_jll.jl/releases/download/IVerilog-v12.0.0+0/IVerilog.v12.0.0.aarch64-linux-gnu-cxx11.tar.gz"
+[[IVerilog]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "5c7c406e7b5563d17c022a74d78dbdb9a352c0d1"
+libc = "musl"
+os = "linux"
+
+    [[IVerilog.download]]
+    sha256 = "9690f8bfce81498a6c2a11c8aff95519dca993af282c3e048a729b5843d9d40f"
+    url = "https://github.com/JuliaBinaryWrappers/IVerilog_jll.jl/releases/download/IVerilog-v12.0.0+0/IVerilog.v12.0.0.aarch64-linux-musl-cxx03.tar.gz"
+[[IVerilog]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "6ead210221d9c2c153ee6cfe63806c4d70e6e3f2"
+libc = "musl"
+os = "linux"
+
+    [[IVerilog.download]]
+    sha256 = "e6e63662ca8168be0eaa6b6b943effbf2437ad77b3b7ec639442da7987674996"
+    url = "https://github.com/JuliaBinaryWrappers/IVerilog_jll.jl/releases/download/IVerilog-v12.0.0+0/IVerilog.v12.0.0.aarch64-linux-musl-cxx11.tar.gz"
+[[IVerilog]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "af8b937d8a666f1b6297c0214521f74df745fb3b"
+libc = "glibc"
+os = "linux"
+
+    [[IVerilog.download]]
+    sha256 = "1fe48112131efdec9c5324fd6b1aeeeba0c8660d7e9f4af25f45b125c6e02955"
+    url = "https://github.com/JuliaBinaryWrappers/IVerilog_jll.jl/releases/download/IVerilog-v12.0.0+0/IVerilog.v12.0.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[IVerilog]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "57100d0427a4d61473b1e2fb53b76c3431925a0f"
+libc = "glibc"
+os = "linux"
+
+    [[IVerilog.download]]
+    sha256 = "eb777eaff7ad5b87adf7fc5dc8adea7e2c57c015680e9bfc540faf29488db52c"
+    url = "https://github.com/JuliaBinaryWrappers/IVerilog_jll.jl/releases/download/IVerilog-v12.0.0+0/IVerilog.v12.0.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[IVerilog]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "3da788eaa2ec0f9795b33b6ac61a0239d4945766"
+libc = "musl"
+os = "linux"
+
+    [[IVerilog.download]]
+    sha256 = "7ba0f594b42ab38def596bd65405437bd2aceea0b7c0a191b7534f00bb1bb61a"
+    url = "https://github.com/JuliaBinaryWrappers/IVerilog_jll.jl/releases/download/IVerilog-v12.0.0+0/IVerilog.v12.0.0.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[IVerilog]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "0462893a26ce4744ec327264270fa5f07e273498"
+libc = "musl"
+os = "linux"
+
+    [[IVerilog.download]]
+    sha256 = "aac62fe9711b1e060a39ed5029666c3fe6bed6df4da6db6e48fb9af514cf83d4"
+    url = "https://github.com/JuliaBinaryWrappers/IVerilog_jll.jl/releases/download/IVerilog-v12.0.0+0/IVerilog.v12.0.0.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[IVerilog]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "d61e9b37007dec61a3db32c41f2b7fa73cf53c69"
+libc = "glibc"
+os = "linux"
+
+    [[IVerilog.download]]
+    sha256 = "c78d5d6827aca38c6859ad68ce255fa0ebaccd0b60b4bcf2216865f7d9f4f7f9"
+    url = "https://github.com/JuliaBinaryWrappers/IVerilog_jll.jl/releases/download/IVerilog-v12.0.0+0/IVerilog.v12.0.0.i686-linux-gnu-cxx03.tar.gz"
+[[IVerilog]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "812a3017901944594fef93ac8fb8562ee6a17965"
+libc = "glibc"
+os = "linux"
+
+    [[IVerilog.download]]
+    sha256 = "43114185f69cde1f83d9cd26c81a50fc912a8eac79efc01dc7d60c3f9afd8685"
+    url = "https://github.com/JuliaBinaryWrappers/IVerilog_jll.jl/releases/download/IVerilog-v12.0.0+0/IVerilog.v12.0.0.i686-linux-gnu-cxx11.tar.gz"
+[[IVerilog]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "b2b45afadee7b0000f11d29c67d62018ae3e57b6"
+libc = "musl"
+os = "linux"
+
+    [[IVerilog.download]]
+    sha256 = "ca28518f194daaaa1b9eba9c257f32e24e204a3acace2ef66a795624789ea957"
+    url = "https://github.com/JuliaBinaryWrappers/IVerilog_jll.jl/releases/download/IVerilog-v12.0.0+0/IVerilog.v12.0.0.i686-linux-musl-cxx03.tar.gz"
+[[IVerilog]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "5484aad78918bf9a5e88f2ec3ed5bd36e3095c7b"
+libc = "musl"
+os = "linux"
+
+    [[IVerilog.download]]
+    sha256 = "a342b9cd9f08c3ca286e90bf8134e1655a063b2742d6728c8dce5c79f5a124dc"
+    url = "https://github.com/JuliaBinaryWrappers/IVerilog_jll.jl/releases/download/IVerilog-v12.0.0+0/IVerilog.v12.0.0.i686-linux-musl-cxx11.tar.gz"
+[[IVerilog]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "d9b59f066f664d7b2afeedd9277db497222048a5"
+os = "windows"
+
+    [[IVerilog.download]]
+    sha256 = "9af6fe9ae01267e9978437d36f406fffb3d8c0b2b6d81d5745630e9916cb4806"
+    url = "https://github.com/JuliaBinaryWrappers/IVerilog_jll.jl/releases/download/IVerilog-v12.0.0+0/IVerilog.v12.0.0.i686-w64-mingw32-cxx03.tar.gz"
+[[IVerilog]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "4b2a3b5f381f023c677bb4724094cd18d938cb5a"
+os = "windows"
+
+    [[IVerilog.download]]
+    sha256 = "5631e35aab34c4d91cd1d720e107152edb491257ec23d5e5654b973b12f5da3a"
+    url = "https://github.com/JuliaBinaryWrappers/IVerilog_jll.jl/releases/download/IVerilog-v12.0.0+0/IVerilog.v12.0.0.i686-w64-mingw32-cxx11.tar.gz"
+[[IVerilog]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "ec34a5dd1229e2ffafc41897c536eab79b7f8167"
+libc = "glibc"
+os = "linux"
+
+    [[IVerilog.download]]
+    sha256 = "44fb82161390f5e6ac24f968ba9a40182e820c2bed42001c7f564ae8a5912392"
+    url = "https://github.com/JuliaBinaryWrappers/IVerilog_jll.jl/releases/download/IVerilog-v12.0.0+0/IVerilog.v12.0.0.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[IVerilog]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "93bcdb46721dd437da41a0b0f4778754c4f3d8e4"
+libc = "glibc"
+os = "linux"
+
+    [[IVerilog.download]]
+    sha256 = "87dd8fd2bc86ca6bdae91f2ef702225a7924d16a3d5c3f659b82b84e0242b1a5"
+    url = "https://github.com/JuliaBinaryWrappers/IVerilog_jll.jl/releases/download/IVerilog-v12.0.0+0/IVerilog.v12.0.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[IVerilog]]
+arch = "x86_64"
+git-tree-sha1 = "94c67049f1ba55339240bbdb6d8ff36dffcb00ed"
+os = "macos"
+
+    [[IVerilog.download]]
+    sha256 = "8d25714bc66b7f750043f81a22d4723bf71eb499647953fb0528e131dcbc578a"
+    url = "https://github.com/JuliaBinaryWrappers/IVerilog_jll.jl/releases/download/IVerilog-v12.0.0+0/IVerilog.v12.0.0.x86_64-apple-darwin.tar.gz"
+[[IVerilog]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "bb56e0ede94af4c0f7b1103db2e4094fafafbcb9"
+libc = "glibc"
+os = "linux"
+
+    [[IVerilog.download]]
+    sha256 = "f8577b8617030ad3a27eebfe20a1e71421c64f3fc4b07c54a4eb0599dd3f47c2"
+    url = "https://github.com/JuliaBinaryWrappers/IVerilog_jll.jl/releases/download/IVerilog-v12.0.0+0/IVerilog.v12.0.0.x86_64-linux-gnu-cxx03.tar.gz"
+[[IVerilog]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "1ae0fd558f94517feeeadec7acfa6476bf56c059"
+libc = "glibc"
+os = "linux"
+
+    [[IVerilog.download]]
+    sha256 = "77441be59a0b044bade6f0a7735563a8373a2a0fd9e5a43f09b1fd6630c61a80"
+    url = "https://github.com/JuliaBinaryWrappers/IVerilog_jll.jl/releases/download/IVerilog-v12.0.0+0/IVerilog.v12.0.0.x86_64-linux-gnu-cxx11.tar.gz"
+[[IVerilog]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "90ac914ffd76befa1f7bc7443e7666e6d8956174"
+libc = "musl"
+os = "linux"
+
+    [[IVerilog.download]]
+    sha256 = "395dce7386ef77c35fd34f999a019fc7d7551a8a7d321e3ca45c15d3250615f7"
+    url = "https://github.com/JuliaBinaryWrappers/IVerilog_jll.jl/releases/download/IVerilog-v12.0.0+0/IVerilog.v12.0.0.x86_64-linux-musl-cxx03.tar.gz"
+[[IVerilog]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "0d2b14fe4f4f099c891ddc45cf3eeffa52006a05"
+libc = "musl"
+os = "linux"
+
+    [[IVerilog.download]]
+    sha256 = "5968f069d7b3438d49d39d97cb787e9ef4709eb7639df9038c6b25796fcadc78"
+    url = "https://github.com/JuliaBinaryWrappers/IVerilog_jll.jl/releases/download/IVerilog-v12.0.0+0/IVerilog.v12.0.0.x86_64-linux-musl-cxx11.tar.gz"
+[[IVerilog]]
+arch = "x86_64"
+git-tree-sha1 = "26be2954ea8e8f38ff168c1fa99b54b64026c60a"
+os = "freebsd"
+
+    [[IVerilog.download]]
+    sha256 = "f6673b6015e4fcfa00c2119bfc40b22bee8b72b2abffe5c9c6c6aae25dc026a2"
+    url = "https://github.com/JuliaBinaryWrappers/IVerilog_jll.jl/releases/download/IVerilog-v12.0.0+0/IVerilog.v12.0.0.x86_64-unknown-freebsd.tar.gz"
+[[IVerilog]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "9a40c0ab5f1ca786818d773b4ec5619fc3ec64fc"
+os = "windows"
+
+    [[IVerilog.download]]
+    sha256 = "c5db547ccd1222e921987a8c6e140930b44754abb18997c629075edcc1c75e79"
+    url = "https://github.com/JuliaBinaryWrappers/IVerilog_jll.jl/releases/download/IVerilog-v12.0.0+0/IVerilog.v12.0.0.x86_64-w64-mingw32-cxx03.tar.gz"
+[[IVerilog]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "5eabef1d10854c007449b07f9afd877a7438bae9"
+os = "windows"
+
+    [[IVerilog.download]]
+    sha256 = "1dfbac25626b6489fe9a4d35bfa9c5f081204d75818bae1fb2f26822267d4cf4"
+    url = "https://github.com/JuliaBinaryWrappers/IVerilog_jll.jl/releases/download/IVerilog-v12.0.0+0/IVerilog.v12.0.0.x86_64-w64-mingw32-cxx11.tar.gz"
