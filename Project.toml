@@ -1,6 +1,6 @@
 name = "IVerilog_jll"
 uuid = "985f9f6c-a11c-5717-b596-40558d7e7751"
-version = "12.0.0+0"
+version = "12.0.0+1"
 
 [deps]
 Readline_jll = "05236dd9-4125-5232-aa7c-9ec0c9b2c25a"
@@ -14,4 +14,4 @@ Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
 JLLWrappers = "1.2.0"
 julia = "1.6"
 Readline_jll = "8.1.1"
-Zlib_jll = "~1.2.11"
+Zlib_jll = "1.2.12"
